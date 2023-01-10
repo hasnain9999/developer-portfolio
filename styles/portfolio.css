@@ -244,20 +244,23 @@ main {
 }
 
 
-.resume-item{
+.resume-item {
     margin-bottom: 30px;
     margin-top: 30px;
     /* margin-right: 71px; */
 }
 
 
-.resume-title{
+.resume-title {
 
     margin-top: 113px;
 }
 
-.resume-button{
+.resume-button {
 
     margin-top: 50px;
     text-align: center;
 }
+
+/* Portfolio-footer */
+
